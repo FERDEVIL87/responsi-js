@@ -14,7 +14,7 @@ const year = new Date().getFullYear()
 
       <!-- Tombol diubah menjadi gaya gotik yang tajam dan berbasis border -->
       <a
-        href="mailto:rayanbersabal@gmail.com"
+        href="mailto:ferdevilx@gmail.com"
         class="bg-transparent text-red-600 font-bold py-3 px-6 rounded-none border-2 border-red-700 hover:bg-red-800 hover:text-white hover:border-red-800 transition-all duration-300 inline-block mb-12"
       >
         Kirim Pesan
